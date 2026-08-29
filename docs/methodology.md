@@ -8,9 +8,9 @@ All CBB requirements are transcribed from the official Central Bank of Bahrain R
 | --- | --- |
 | Rulebook volume | Volume 1 (Conventional Banks) |
 | Module | OM-5.5 — Cyber Security Risk Management |
-| Version consulted | *TODO — record version identifier* |
-| Date consulted | *TODO — record date* |
-| Source URL | *TODO — record URL* |
+| Version consulted | Current online Rulebook (paragraph-level amendment dates recorded in the Rulebook; latest amendment reflected: OM-5.5.9, May 2026) |
+| Date consulted | 29 August 2026 |
+| Source URL | https://cbben.thomsonreuters.com/rulebook/om-55-cyber-security-risk-management |
 
 Re-check this before any release. If the module has been amended, the crosswalk is stale until reviewed.
 
@@ -26,7 +26,7 @@ ISO/IEC 27001 is copyright ISO. Control text is **not** reproduced in this repos
 1. Read the CBB paragraph and isolate each distinct obligation within it.
 2. Ask what the obligation is actually trying to achieve, not which keywords it contains. Keyword matching produces mappings that fall apart under questioning.
 3. Identify the ISO clause or Annex A control that delivers that outcome.
-4. Identify the NIST CSF subcategory that describes the same outcome.
+4. Identify the NIST CSF 2.0 category that describes the same outcome (category level deliberately — see docs/sources-and-conventions.md).
 5. Grade the mapping: `direct`, `partial`, or `none`.
 6. Record the evidence an assessor would expect.
 
