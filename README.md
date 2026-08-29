@@ -61,7 +61,9 @@ flowchart LR
 |---|---|---|
 | ■ | [`mappings/`](mappings/) | Control-by-control crosswalk as CSV — diffable, sortable, importable into any GRC tool |
 | ■ | [`implementation-plan/`](implementation-plan/) | Five phases, each with an exit criterion, ordered by risk reduced per unit of effort |
-| ■ | [`docs/`](docs/methodology.md) | Mapping methodology, sourcing discipline, and a candid limitations section |
+| ■ | [`mappings/rationale/`](mappings/rationale/) | Per-domain expansion of the two composite Rules — OM-5.5.15's eleven policy domains and OM-5.5.18's preventive stack, with mappings considered and rejected |
+| ■ | [`mappings/appendix-c-decomposition.md`](mappings/appendix-c-decomposition.md) | Appendix C indexed to CSF 2.0 — including the fact that CBB's Appendix is built on CSF **1.1** |
+| ■ | [`docs/`](docs/) | Mapping methodology, [sources and conventions](docs/sources-and-conventions.md), and a candid limitations section |
 
 ## The build order
 
@@ -108,7 +110,7 @@ The dotted line matters more than the solid ones. A programme where Phase 4 find
 
 - CBB Rulebook Volume 1, Module OM-5.5
 - Crosswalk to ISO/IEC 27001:2022 clauses and Annex A
-- Crosswalk to NIST CSF 2.0 subcategories
+- Crosswalk to NIST CSF 2.0 categories
 - Prioritised sequence for a zero-baseline organisation
 - Evidence artefacts expected per control
 
@@ -137,7 +139,11 @@ This is the part that decides whether the repository is worth anything.
 
 ## Status
 
-Structure complete. Crosswalk population in progress, working paragraph by paragraph through OM-5.5.
+**Crosswalk populated.** All 62 paragraphs of OM-5.5 (OM-5.5.1–61 plus 21A) are mapped to ISO/IEC 27001:2022 clauses and Annex A controls and to NIST CSF 2.0 categories, in English and Arabic. Both composite Rules are decomposed, Appendix C is indexed, and the implementation plan is written.
+
+**Under review.** Paragraph references and requirement summaries are transcribed from the current official Rulebook. The ISO and CSF assignments are the author's analysis, produced with AI assistance, and are being verified row by row. Treat individual mappings as drafts until that pass is complete.
+
+Next: per-paragraph evidence artefacts, and a Volume 2 (Islamic banks) delta.
 
 ## Related work
 
