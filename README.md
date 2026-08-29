@@ -64,6 +64,7 @@ flowchart LR
 | ■ | [`mappings/rationale/`](mappings/rationale/) | Per-domain expansion of the two composite Rules — OM-5.5.15's eleven policy domains and OM-5.5.18's preventive stack, with mappings considered and rejected |
 | ■ | [`mappings/appendix-c-decomposition.md`](mappings/appendix-c-decomposition.md) | Appendix C indexed to CSF 2.0 — including the fact that CBB's Appendix is built on CSF **1.1** |
 | ■ | [`docs/`](docs/) | Mapping methodology, [sources and conventions](docs/sources-and-conventions.md), and a candid limitations section |
+| ■ | [`examples/`](examples/worked-assessment-incident-reporting.md) | One section assessed end to end against a fictional licensee — findings, remediation order, residual risk |
 
 ## The build order
 
