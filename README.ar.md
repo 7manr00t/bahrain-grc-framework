@@ -50,6 +50,7 @@
 | ■ | [`mappings/rationale/`](mappings/rationale/) | تفصيل القاعدتين المركّبتين — مجالات السياسة الأحد عشر في OM-5.5.15 والضوابط الوقائية في OM-5.5.18 |
 | ■ | [`mappings/appendix-c-decomposition.md`](mappings/appendix-c-decomposition.md) | تفكيك الملحق ج وربطه بـ NIST CSF 2.0 — مع التنبيه إلى أنه مبني على الإصدار **1.1** |
 | ■ | [`docs/`](docs/) | المنهجية و[المصادر والاصطلاحات](docs/sources-and-conventions.md) وحدود العمل |
+| ■ | [`examples/`](examples/worked-assessment-incident-reporting.md) | مثال تطبيقي كامل على قسم واحد لدى مرخص له افتراضي — الملاحظات وترتيب المعالجة والمخاطر المتبقية |
 
 ## ترتيب البناء
 
