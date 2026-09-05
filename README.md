@@ -142,7 +142,7 @@ This is the part that decides whether the repository is worth anything.
 
 **Crosswalk populated.** All 62 paragraphs of OM-5.5 (OM-5.5.1–61 plus 21A) are mapped to ISO/IEC 27001:2022 clauses and Annex A controls and to NIST CSF 2.0 categories, in English and Arabic. Both composite Rules are decomposed, Appendix C is indexed, and the implementation plan is written.
 
-**Under review.** Paragraph references and requirement summaries are transcribed from the current official Rulebook. The ISO and CSF assignments are the author's analysis, produced with AI assistance, and are being verified row by row. Treat individual mappings as drafts until that pass is complete.
+**Under review.** Paragraph references and requirement summaries are transcribed from the current official Rulebook. The ISO and CSF assignments are the author's analysis, produced with AI assistance, and are being verified row by row.
 
 Next: per-paragraph evidence artefacts, and a Volume 2 (Islamic banks) delta.
 
