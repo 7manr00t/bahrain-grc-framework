@@ -146,10 +146,6 @@ This is the part that decides whether the repository is worth anything.
 
 Next: per-paragraph evidence artefacts, and a Volume 2 (Islamic banks) delta.
 
-## Related work
-
-**`cbb-rulebook-gap-assessment`** — earlier gap assessment against OM-5.5 using a fictional entity, covering cyber security risk management and outsourcing.
-
 ---
 
 <div align="center">
